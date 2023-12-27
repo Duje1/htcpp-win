@@ -1,5 +1,0 @@
-C:\Users\duje1\AppData\Local\Temp\ccAAQzZu.o:server_win.cpp:(.text+0x5a): undefined reference to `http::TcpServer::TcpServer(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, int)'
-C:\Users\duje1\AppData\Local\Temp\ccAAQzZu.o:server_win.cpp:(.text+0x84): undefined reference to `http::TcpServer::startListen()'
-C:\Users\duje1\AppData\Local\Temp\ccAAQzZu.o:server_win.cpp:(.text+0x95): undefined reference to `http::TcpServer::~TcpServer()'
-C:\Users\duje1\AppData\Local\Temp\ccAAQzZu.o:server_win.cpp:(.text+0xd9): undefined reference to `http::TcpServer::~TcpServer()'
-collect2.exe: error: ld returned 1 exit status
